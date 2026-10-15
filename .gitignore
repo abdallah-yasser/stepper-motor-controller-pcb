@@ -1,0 +1,16 @@
+# KiCad backups and local files
+*-backups/
+*.bak
+*.lck
+~*.lck
+*.kicad_prl
+fp-info-cache
+_autosave-*
+
+# Fabrication outputs (generate as needed)
+gerbers/
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
